@@ -1,22 +1,2 @@
 print('hello world')
-print('this is python~')
-5+1
-
-#%%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(5+1)
